@@ -1,0 +1,9 @@
+# 🔐 Protect sensitive files (.php, .json, .txt, etc) from direct access
+
+<FilesMatch "^(config\.php|counter\.txt|numbers_config\.json)$">
+Order allow,deny
+Deny from all
+</FilesMatch>
+
+# 🚫 Disable directory listing
+Options -Indexes
