@@ -42,8 +42,7 @@ A lightweight admin panel that allows rotating WhatsApp contact numbers dynamica
 Useful for small businesses or digital service providers where customer support needs to be rotated between agents.
 
 ## ⚠️ Disclaimer
-
-This project uses fake names and numbers for demonstration. Replace them with your real configuration when deploying.
+This project is a demo version of a real system I developed for a client. All content has been modified for public use and demonstration purposes. Replace it with your actual configuration before deploying.
 
 ---
 
